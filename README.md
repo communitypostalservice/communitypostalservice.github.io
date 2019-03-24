@@ -17,7 +17,4 @@ Currently multiple things are needed:
 
 ## Questions? 
 
-Feel free to ping us at info AT communitypostalservice DOT net or [raise an issue](https://github.com/communitypostalservice/communitypostalservice.github.io/issues) or fnid us on [Discord](https://discord.gg/NqvSHB)
-
-
-
+Feel free to ping us at info AT communitypostalservice DOT net or [raise an issue](https://github.com/communitypostalservice/communitypostalservice.github.io/issues) or find us on [Discord](https://discord.gg/NqvSHB)
