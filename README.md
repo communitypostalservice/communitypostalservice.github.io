@@ -17,5 +17,5 @@ Currently multiple things are needed:
 
 ## Questions? 
 
-Feel free to ping us at info@
+Feel free to ping us at info AT communitypostalservice DOT net or [raise an issue](https://github.com/communitypostalservice/communitypostalservice.github.io/issues)
 
